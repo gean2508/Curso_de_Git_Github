@@ -1,4 +1,4 @@
 Gean es un aprendis de programacion y espera logralo pronto por que de esto depende su futuro
 si como lo leen su futuro depende de lo constante que sea estudiando y no perdiendo el tiempo en cosas sin sentido
-escribo esta linea en master_copy para ver si es verdad lo que dice  Fredy de platzi
-ahora escribo esto para tener mas commit en mi git log y despues agregarlos/fusionarlos a mi masteron
+escribo esta linea en master_copy para ver si es verdad lo que dice  Fredy de platzi(master_copy es la rama clon de master que hice para probar a creacion de otras ramas y la fusion/elimacion de las mismas)
+ahora escribo esto para tener mas commit en mi git log y despues agregarlos/fusionarlos a mi master
